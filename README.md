@@ -170,7 +170,7 @@ gtkwave des_control_unit_improved_tb.vcd des_wave_improved.gtkw
 
 #### Hình ảnh waveform của Control Unit:
 
-![DES Control Unit Waveform](./images/des_control_unit_waveform.png)
+![DES Control Unit Waveform](./des_control_unit_waveform.png)
 
 *Hình: Waveform hiển thị các tín hiệu của DES Control Unit trong GTKWave, bao gồm tín hiệu clock (clk), các tín hiệu điều khiển (start, key_ready, data_ready), trạng thái (state), bộ đếm vòng lặp (round_count), và các tín hiệu enable cho các khối datapath.*
 
